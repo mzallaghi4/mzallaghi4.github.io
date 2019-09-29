@@ -15,6 +15,8 @@ redirect_from:
 
 # Mehdi Zallaghi
 
-MSc student, School of Mathematics Science, Tarbiat Modares University
+Master student in Applied Mathematics, School of Mathematics Science, Tarbiat Modares University
+
+Petroleum Engineer @ PUT
 
 
