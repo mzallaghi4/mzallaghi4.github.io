@@ -11,7 +11,7 @@ title                    : "Mehdi Zallaghi"
 title_separator          : "-"
 name                     : &name "Mehdi Zallaghi"
 description              : &description "Ph.D. student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mzallaghi4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mzallaghi4/mzallaghi4.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,12 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Mehdi Zallaghi"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  avatar           : "Mehdi_Zallaghi.jpg"
+  bio              : "MSc student, School of Mathematics Science, Tarbiat Modares University"
+  location         : "Tehran, Iran"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  email            : "mmzallaghi@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "mzallaghi4"
   google_plus      :
   keybase          :
   instagram        : 
