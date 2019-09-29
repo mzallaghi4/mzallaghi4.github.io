@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Mehdi Zallaghi"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
+name                     : &name "Mehdi Zallaghi"
 description              : &description "Ph.D. student, Computer Science Department, Stanford University"
 url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "mzallaghi4/mzallaghi4.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Mehdi Zallaghi"
   avatar           : "lantaoyu.jpg"
   bio              : "Ph.D. student, Computer Science Department, Stanford University"
   location         : "Stanford, California"
