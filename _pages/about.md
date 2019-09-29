@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#About me </br>
+</br>
 "I am a MSc student in Applied Mathemaics at Tarbiat Modares University"
 <p align="center">
   <img src="https://mzallaghi4.github.io/files/Mehdi_Zallaghi.jpg" alt="Photo" style="width: 450px;"/> 
