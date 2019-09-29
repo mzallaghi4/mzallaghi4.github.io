@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Mehdi Zallaghi (مهدی زلقی)"
+title: "Mehdi Zallaghi"
 permalink: /cv/
 author_profile: true
 redirect_from:
