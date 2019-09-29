@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-</br>
+
 I am a MSc student in Applied Mathemaics at Tarbiat Modares University
 
 
