@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-"SFaculty of Mathematical Sciences, Tarbiat Modares University<br>
+"Faculty of Mathematical Sciences, Tarbiat Modares University<br>
 "Tehran, Iran"<br>
 "Email: mmzallaghi@gmail.com" <br>
 <br>
