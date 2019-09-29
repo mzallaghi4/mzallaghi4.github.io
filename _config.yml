@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mehdi Zallaghi"
 title_separator          : "-"
 name                     : &name "Mehdi Zallaghi"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+description              : &description "MSc student, School of Mathematics Science, Tarbiat Modares University"
 url                      : https://mzallaghi4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mzallaghi4/mzallaghi4.github.io"
@@ -82,7 +82,7 @@ author:
   bio              : "MSc student, School of Mathematics Science, Tarbiat Modares University"
   location         : "Tehran, Iran"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=xXjexJkAAAAJ&hl=en"
   email            : "mmzallaghi@gmail.com"
   uri              : 
   bitbucket        :
@@ -96,11 +96,11 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         :"https://www.linkedin.com/in/mehdizallaghi/"
+  orcid            : "https://orcid.org/0000-0001-9883-6479"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
