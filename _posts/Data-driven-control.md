@@ -3,7 +3,7 @@ title: 'Data-Driven Control'
 date: 2020
 permalink:
 ---
-###Data-Driven Control
+###  Data-Driven Control
 
 ## Tutorial 
 
