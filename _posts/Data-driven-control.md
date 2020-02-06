@@ -1,7 +1,7 @@
 ---
 title: 'Data-Driven Control'
-date: 2017-06-05
-permalink: /posts/2017/06/marl-papers/
+date: 2020
+permalink:
 <!-- tags:
   - cool posts
   - category1
@@ -11,7 +11,7 @@ Data-Driven Control
 
 ## Tutorial 
 
-##Books
+## Books
 
 ## Review Papers
 
