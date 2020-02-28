@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student in Applied Mathemaics at Tarbiat Modares University
-
+I am a researcher in Applied Mathemaics and Petroleum Engineering.
+I work in the fields of petroleum engineering and mathematics. Currently, my research interests lie in applied mathematics. 
+I am particularly interested in numerical analysis, optimization, and control theory, mainly, multi-scale and multilevel numerical methods. 
+I am also interested in data science and analytics.
 
 
 
