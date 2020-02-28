@@ -15,7 +15,7 @@ redirect_from:
 
 # Mehdi Zallaghi
 
-Master student in Applied Mathematics, School of Mathematics Science, Tarbiat Modares University
+Master of Science in Applied Mathematics, School of Mathematics Science, Tarbiat Modares University, 2019.
 
 "Petroleum Engineer @ PUT"
 
