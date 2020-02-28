@@ -17,5 +17,6 @@ I am also interested in data science and analytics.
 
 
 # Recent News
+* February 4, 2020. My thesis submitted to department.
 * September 2019. My seminar submitted to department.
 * November, 2018. One paper submitted to SPE conf 2019.
