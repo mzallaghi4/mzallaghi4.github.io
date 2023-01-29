@@ -14,11 +14,9 @@ is is the front page of a website that is powered by the [academicpages template
 
 My research interests
 ======
-Numerical Methods for PDEs
-
-Optimization and Control Theory 
-
-Machine Learning and Deep Learning
+-- Numerical Methods for PDEs
+-- Optimization and Control Theory 
+-- Machine Learning and Deep Learning
 
 
 Getting started
