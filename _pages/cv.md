@@ -20,20 +20,20 @@ Work experience
 ======
 * OCT 2021 – PRESENT: Technical Manager
 *  Pars Petroflow Engineering & Technology Co
-  * Developing numerical software package for the petroleum industry
-  * Production optimization method
-  * Well Productivity Enhancement
+   * Developing numerical software package for the petroleum industry
+   * Production optimization method
+   * Well Productivity Enhancement
 
 
-* 2014-2022: Research Engineer | Tehran Petroleum Research Center - PUT
-  * Reservoir engineering and simulation studies
-  * Laboratory director (EOR and Asphaltene)
-  * Graduate teaching assistants 
+* 2014-2022: Research Engineer : Tehran Petroleum Research Center - PUT
+   * Reservoir engineering and simulation studies
+   * Laboratory director (EOR and Asphaltene)
+   * Graduate teaching assistants 
 
 
-* OCT 2014 – MAR 2015: Petroleum Engineer | Namvaran Upstream Oil & Gas Project Co
-  * Reservoir geomechanice  studies
-  * Performed reservoir data analysis and reservoir simulation
+* OCT 2014 – MAR 2015: Petroleum Engineer : Namvaran Upstream Oil & Gas Project Co
+   * Reservoir geomechanice  studies
+   * Performed reservoir data analysis and reservoir simulation
 
   
   
