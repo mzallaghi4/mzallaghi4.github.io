@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "**Mehdi Zallaghi**"
+title: "Mehdi Zallaghi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+This is the front page of a website that is powered by ME!
 
 
 I am a computational scientist with engineering background and really passionate about mathematics and its real-world applications.
