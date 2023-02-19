@@ -40,9 +40,10 @@ Skills
 
 Publications
 ======
-  <ul>{% [for post in site.publications](https://scholar.google.com/citations?hl=en&user=xXjexJkAAAAJ&view_op=list_works&sortby=pubdate) %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Please visit my Google Scholar!
+
+
   
 Talks
 ======
