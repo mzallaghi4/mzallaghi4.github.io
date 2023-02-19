@@ -18,15 +18,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* OCT 2021 – PRESENT: Technical Manager
+*  Pars Petroflow Engineering & Technology Co
+  * Developing numerical software package for the petroleum industry
+  * Production optimization method
+  * Well Productivity Enhancement
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* 2014-2022: Research Engineer | Tehran Petroleum Research Center - PUT
+  * Reservoir engineering and simulation studies
+  * Laboratory director (EOR and Asphaltene)
+  * Graduate teaching assistants 
+
+
+* OCT 2014 – MAR 2015: Petroleum Engineer | Namvaran Upstream Oil & Gas Project Co
+  * Reservoir geomechanice  studies
+  * Performed reservoir data analysis and reservoir simulation
+
+  
   
 Skills
 ======
