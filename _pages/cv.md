@@ -66,6 +66,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Calibration 
 ======
-* Currently signed in to 43 different slack teams
+
+I have a keen interest in the application of numerical mathematics and machine learning in engineering and science,consequently, any collaboration is welcome!
+
