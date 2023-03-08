@@ -13,6 +13,7 @@ redirect_from:
 
 I am a computational scientist with engineering background and really passionate about mathematics and its real-world applications. I am motivated self-starter and analytical problem solver who views obstacles as challenges!
 
+
 I have completed two master's degrees in petroleum engineering and applied mathematics with overlapping areas of interest in fluid dynamics in porous media.
 As a motivated problem solver and diligent learner, I have developed proficiency in mathematical modelling and numerical skills. I have focused my applied mathematics degree on the numerical solution of fluid dynamics problems, taking graduate-level courses in numerical analysis, finite element analysis, and numerical solution of PDE problems. I have also gained significant experience adapting to different CFD packages (e.g., OpenFOAM) and programming languages for scientific computing and machine learning, including MATLAB, Python, and C++.
 
@@ -21,11 +22,11 @@ As a motivated problem solver and diligent learner, I have developed proficiency
 
 My research interests
 ======
--- Numerical Methods for PDEs
-
--- Optimization and Control Theory 
-
--- Machine Learning and Deep Learning
+I consider myself a computational scientist. I am currently focusing on learning about deep learning and computer vision.  <br>
+My research interests are centered around:  <br>
+-- Numerical Methods for PDEs             <br>
+-- Optimization and Control Theory        <br>
+-- Machine Learning and Deep Learning     <br>
 
 
 My Projects
