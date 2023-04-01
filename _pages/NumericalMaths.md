@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /NumericalMaths/
+title: "NumericalMaths"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /NumericalMaths.html
 ---
 
 ## Locations of key files/directories
