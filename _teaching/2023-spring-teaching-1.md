@@ -2,13 +2,14 @@
 title: "Applied Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-fall-teaching-1
 venue: " Sistan Institute of Mathematics"
 date: 2022-10-01
 location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience.
+This is a description of a teaching experience in Linear Algebra!
+
 
 Basics of Linear Algebra
 ======
