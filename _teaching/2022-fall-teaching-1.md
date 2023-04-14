@@ -20,8 +20,16 @@ Part 3- Numerical Linear Algebra
 Basics of Linear Algebra
 ======
  * Linear Equation
- * Vectors
- * Matrix
+ * Vectors & Matrix
+ * Linear Independence, Span, and Bases
+ * Linear Transformations
+ * Determinants
+ * Eigenvalues and Eigenvectors
+ * Inner Product Spaces
+ * Orthogonal Projection
+ * Least Squares
+ * Singular Value Decomposition
+
 
 
 Matrix Computation 
@@ -32,5 +40,20 @@ Matrix Computation
 
 Linear Algebra in Python
 ======
-  * Vectors in Python
+  * Vectors & Matrix in Python
+  * Matrix and vector products
+  * Matrix Decompositions
+  * Matrix eigenvalues
+  * Norms and other numbers
+  * Solving equations and inverting matrices
+
+   
+Numerical Linear Algebra
+======
+  * Matrix Computation 
+  * Matrix Decompositions
+  * Algorithms
+  * Conditioning and stability
+  * Iterative methods
+
  
