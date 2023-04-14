@@ -11,6 +11,12 @@ location: "Tehran, Iran"
 This is a description of a teaching experience in Linear Algebra!
 
 
+Applied Linear Algebra
+======
+Part 1- Linear Algebra  
+Part 2- Matrix Analysis 
+Part 3- Numerical Linear Algebra
+
 Basics of Linear Algebra
 ======
  * Linear Equation
