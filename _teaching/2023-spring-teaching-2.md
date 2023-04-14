@@ -2,7 +2,7 @@
 title: "Scientific Computing with Python"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2022-summer-teaching-1
 venue: "Academy of Petroleum Industry (AcPI)"
 date: 2022-05-01
 location: "Tehran, Iran"
