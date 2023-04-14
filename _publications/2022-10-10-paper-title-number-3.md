@@ -1,6 +1,7 @@
 ---
 title: "Experimental and modeling study of enhanced oil recovery from carbonate reservoirs"
 collection: publications
+
 permalink: /publication/2022-10-10-paper-title-number-3
 excerpt: 'Experimental and modeling study of enhanced oil recovery from carbonate reservoirs with smart water and surfactant injection'
 date: 2022-10-10
