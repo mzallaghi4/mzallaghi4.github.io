@@ -8,12 +8,20 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+I consider myself a computational scientist. I am currently focusing on optimization and optimal control application in the biological system and predictive model for 
+multiphysics problems.
+I am a motivated self-starter and analytical problem solver who views obstacles as challenges!
+
+
+
 Education
 ======
 
-* Ph.D student in Applied Mathematics - 2023 -Ongoing
+* Ph.D. student in Applied Mathematics - 2023 -Ongoing
   
-* MSc in Applied Mathematics ,  2017-2020 - (minor in numerical analysis)
+* MSc in Applied Mathematics,  2017-2020 - (minor in numerical analysis)
   
 * MSc in Petroleum Engineering, 2012-2014
   
