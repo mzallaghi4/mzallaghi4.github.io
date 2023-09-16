@@ -1,5 +1,4 @@
----
-layout: archive
+
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -11,10 +10,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Petroleum Engineering, 2009
-* M.S. in Petroleum Engineering, 2014
-* M.S. in Applied Mathematics , 2020
-* Ph.D in ... (Actively looking for Ph.D position in Mathematics or Computer Science)
+
+* Ph.D student in Applied Mathematics - 2023 -Ongoing
+  
+* MSc in Applied Mathematics ,  2017-2020 - (minor in numerical analysis)
+  
+* MSc in Petroleum Engineering, 2012-2014
+  
+* BSc in Petroleum Engineering, 2005-2009
+
+Summary 
+======
+* Programming skills in Python, MATLAB and C++
+* Experience in scientific computing
+* Solid mathematical background
+* Strong analytical skills
+* A keen interest in computer science 
+
+
 
 Work experience
 ======
@@ -32,10 +45,16 @@ Work experience
 
 
 * OCT 2014 – MAR 2015: Petroleum Engineer : Namvaran Upstream Oil & Gas Project Co
-   * Reservoir geomechanice  studies
+   * Reservoir geomechanice studies
    * Performed reservoir data analysis and reservoir simulation
 
-  
+Research Area
+======
+* Numerical solution of optimal control problems with biology application
+* Numerical analysis and simulation of multiphysics problems
+* Machine learning application in engineering and science 
+
+
   
 Skills
 ======
@@ -57,17 +76,3 @@ Please visit my Google Scholar!
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and Calibration 
-======
-
-I have a keen interest in the application of numerical mathematics and machine learning in engineering and science,consequently, any collaboration is welcome!
-
