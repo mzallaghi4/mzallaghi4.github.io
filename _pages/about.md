@@ -14,19 +14,23 @@ redirect_from:
 I am a computational scientist with engineering background and really passionate about mathematics and its real-world applications. I am motivated self-starter and analytical problem solver who views obstacles as challenges!
 
 
-I have completed two master's degrees in petroleum engineering and applied mathematics with overlapping areas of interest in fluid dynamics in porous media.
-As a motivated problem solver and diligent learner, I have developed proficiency in mathematical modelling and numerical skills. I have focused my applied mathematics degree on the numerical solution of fluid dynamics problems, taking graduate-level courses in numerical analysis, finite element analysis, and numerical solution of PDE problems. I have also gained significant experience adapting to different CFD packages (e.g., OpenFOAM) and programming languages for scientific computing and machine learning, including MATLAB, Python, and C++.
+I hold a PhD in Financial Mathematics, building upon my dual master’s degrees in petroleum engineering and applied mathematics. My research and expertise focus on advanced mathematical modeling and numerical methods applied to quantitative finance, including stochastic processes, option pricing, and risk management.
+
+Throughout my doctoral studies, I have developed strong skills in solving complex partial differential equations and implementing computational techniques relevant to financial markets. I specialize in leveraging deep learning and reinforcement learning methods to address and solve challenging problems in financial mathematics.
+
+As a dedicated researcher and problem solver, I am passionate about applying rigorous mathematical approaches to address challenges in finance and beyond.
+
 
 
 
 
 My research interests
 ======
-I consider myself a computational scientist. I am currently focusing on learning about deep learning and computer vision.  <br>
+I consider myself a computational scientist. I am currently focusing on deep learning and Financial Mathematics.  <br>
 My research interests are centered around:  <br>
--- Numerical Methods for PDEs             <br>
--- Optimization and Control Theory        <br>
--- Machine Learning and Deep Learning     <br>
+
+-- Deep Learning and RL Methods in Financial Mathematics  <br>
+-- Stochastic Optimization and Control         <br>
 
 
 My Projects
@@ -36,15 +40,13 @@ My Projects
 3. Deep Learning for Computer vision and Digital image processing 
 
 
-My Career Perspective 
-======
-My career perspective includes Data Analyst/Scientist, Mathematical Analyst/Modeller, Operations Research Analyst, Economic Analyst, Computational Analyst, and Scientific Software developer.
+
 
 
 
 My contact information
 --
 Email: mmzallaghi@gmail.com <br>
-Skype: mmzallaghi           <br>
+
 
 
